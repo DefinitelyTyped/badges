@@ -2,6 +2,16 @@
 
 (ignore the links)
 
+## Shields.io
+
+[![DefinitelyTyped](http://img.shields.io/badge/Definitely-Typed-blue.svg)](https://github.com/borisyankov/DefinitelyTyped)
+[![DefinitelyTyped](http://img.shields.io/badge/DT-DefinitelyTyped-blue.svg)](https://github.com/borisyankov/DefinitelyTyped)
+[![DefinitelyTyped](http://img.shields.io/badge/DT-DefinitelyTyped-blue.svg?style=flat)](https://github.com/borisyankov/DefinitelyTyped)
+
+* Badges as-a-service!
+* Generates SVG images
+* Custom services at request
+
 ## Travis:
 
 [![Build Status](https://secure.travis-ci.org/DefinitelyTyped/tsd.png?branch=master)](http://travis-ci.org/DefinitelyTyped/tsd)
